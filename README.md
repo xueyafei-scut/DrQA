@@ -1,5 +1,3 @@
-# 未来将会使用更新的库，更新一下这份经典的代码。
-
 # DrQA
 This is a PyTorch implementation of the DrQA system described in the ACL 2017 paper [Reading Wikipedia to Answer Open-Domain Questions](https://arxiv.org/abs/1704.00051).
 
